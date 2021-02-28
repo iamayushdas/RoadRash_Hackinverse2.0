@@ -12,3 +12,8 @@
 ### Just run it on localhost via Live server.
 ### Index.html is the main file consisting of StyleSheets too
 
+## Developed by:
+
+[Shivani chauhan](http://xdshivani.me)
+
+[Ayush Das](http://iamayushdas.me)
