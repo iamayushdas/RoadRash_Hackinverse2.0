@@ -223,7 +223,7 @@ function playGame(){
 
     {   
         if(player.ele.y>400)
-        player.ele.y -=  1;
+            player.ele.y -=  1;
         player.speed = player.speed <20 ? (player.speed+0.05):20;
     }
     if(keys.ArrowDown)
